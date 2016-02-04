@@ -1,0 +1,23 @@
+/*
+Theme Name: BootstrapWPFast
+Theme URI: 
+Author: Louis Otto
+Author URI: http://louisotto.co.uk
+Description: This theme should speed up vanilla Bootstrap + Wordpress projects. It's a hacked version of upBootWP  which is based on Underscores http://underscores.me/, (C) 2012-2013 Automattic, Inc. and Twitter Bootstrap 3.3 Feel free to edit it. Thanks to all the people at upBootWP for doing the heavy lifting :)
+Version: 0.1
+License: GNU General Public License
+License URI: license.txt
+Text Domain: quickbootstrapwp
+Domain Path: 
+Tags:
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+This theme is also a hack of upBootWP is based on Underscores http://underscores.me/, (C) 2012-2013 Automattic, Inc. and Twitter Bootstrap 3.3
+
+*/
+
+body {
+	margin-top: 50px;
+}
